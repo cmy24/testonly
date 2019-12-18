@@ -5,3 +5,11 @@ by
 then
 again
 
+git branch t1
+git checkout t1
+git add .
+git commit
+# On branch t1
+nothing to commit, working directory clean
+
+
